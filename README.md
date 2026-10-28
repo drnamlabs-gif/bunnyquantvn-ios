@@ -37,3 +37,14 @@ xcodebuild -project BunnyQuantVN.xcodeproj -scheme BunnyQuantVN -configuration R
 ```
 Simulator không có App Attest: Debug trỏ vào `appstore/screenshot_stub.py` (`BQ_API_BASE=http://127.0.0.1:8099`), cờ `-debugOpen FPT`, `-debugSheet settings|add`.
 Logo: `brand/*.svg` (nguồn), icon 1024 không alpha đã render trong `Assets.xcassets`. Trang App Store: `appstore/listing-vi.md`.
+
+## Ảnh màn hình
+
+Nến là giá thật lấy từ dữ liệu thị trường công khai; các đường vào, cắt lỗ, chốt lời trong ảnh là số minh họa, không phải kết quả của máy chủ thật. Ứng dụng chỉ có giao diện sáng, theo thiết kế.
+
+<img src="marketing/screenshots/01-watchlist.png" width="230" alt="Danh sách theo dõi">
+<img src="marketing/screenshots/02-chart.png" width="230" alt="Biểu đồ nến với vùng vào, cắt lỗ, chốt lời">
+<img src="marketing/screenshots/03-risk.png" width="230" alt="Các mức giá cần chú ý và thẻ biến động và rủi ro">
+<img src="marketing/screenshots/04-chart-2.png" width="230" alt="Một mã khác">
+
+Danh sách theo dõi · Biểu đồ nến với vùng vào, cắt lỗ, chốt lời · Các mức giá cần chú ý và thẻ biến động và rủi ro · Một mã khác
