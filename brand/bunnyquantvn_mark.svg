@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 1024 1024">
+  <!-- Dr. Nam H. Le. drnamlabs.com, bunnyquant.com -->
+  <!-- Dấu hiệu trắng trên nền trong suốt cho màn hình chờ (nền đỏ-vàng của app). -->
+  <path d="M 125 804 L 200 804 C 270 804 300 750 345 690 A 271 271 0 1 1 679 690 C 724 750 754 804 824 804 L 899 804"
+        fill="none" stroke="#FFFFFF" stroke-width="92" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon fill="#C8102E" points="512,159 524.9,189.5 557.9,192.2 532.8,213.7 540.4,245.8 512,228.6 483.6,245.8 491.2,213.7 466.1,192.2 499.1,189.5"/>
+</svg>

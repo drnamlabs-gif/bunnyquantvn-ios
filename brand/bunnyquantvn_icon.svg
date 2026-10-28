@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Dr. Nam H. Le. drnamlabs.com, bunnyquant.com -->
+  <!-- BunnyQuantVN: cùng chữ Omega với bản BunnyQuant, nền đỏ cờ, nét vàng, sao vàng-đỏ ở đỉnh. Không bo góc, không kênh alpha (iOS tự bo). -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D3182B"/>
+      <stop offset="1" stop-color="#8C0F1D"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="80" y1="0" x2="944" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFE08A"/>
+      <stop offset="0.5" stop-color="#FFB300"/>
+      <stop offset="1" stop-color="#FFD966"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <!-- đường kẻ mảnh như màn hình giá -->
+  <g stroke="#FFD966" stroke-opacity="0.10" stroke-width="2">
+    <line x1="512" y1="0" x2="512" y2="1024"/>
+    <line x1="0" y1="512" x2="1024" y2="512"/>
+  </g>
+  <!-- Omega: vòng cung và hai chân -->
+  <path d="M 125 804 L 200 804 C 270 804 300 750 345 690 A 271 271 0 1 1 679 690 C 724 750 754 804 824 804 L 899 804"
+        fill="none" stroke="url(#gold)" stroke-width="92" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- sao năm cánh đỏ trên nét vàng, tâm (512, 205), bán kính ngoài 46 -->
+  <polygon fill="#C8102E" points="512,159 524.9,189.5 557.9,192.2 532.8,213.7 540.4,245.8 512,228.6 483.6,245.8 491.2,213.7 466.1,192.2 499.1,189.5"/>
+</svg>
