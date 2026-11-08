@@ -2,6 +2,8 @@
 
 **Developer: Dr. Nam H. Le** · © 2026 Dr. Nam H. Le · [drnamlabs.com](https://drnamlabs.com) · [bunnyquant.vn](https://bunnyquant.vn)
 
+**Trên App Store (từ 06/11/2026):** [Việt Nam](https://apps.apple.com/vn/app/bunnyquantvn/id6758330200) · [Quốc tế / Mỹ](https://apps.apple.com/us/app/bunnyquantvn/id6758330200) · Apple ID 6758330200
+
 Ứng dụng Swift / SwiftUI của BunnyQuant cho thị trường Việt Nam: danh sách VN30, biểu đồ nến vẽ bằng SwiftUI Canvas, vùng vào, cắt lỗ, chốt lời và thẻ biến động và rủi ro. Miễn phí; mỗi lần cài có một tài khoản ẩn danh riêng, xác minh bằng Apple App Attest.
 
 <img src="appstore/screenshots/iphone-6.9-vi/1-danh-sach.png" width="220"> <img src="appstore/screenshots/iphone-6.9-vi/2-fpt.png" width="220"> <img src="appstore/screenshots/iphone-6.9-vi/3-hpg.png" width="220">
